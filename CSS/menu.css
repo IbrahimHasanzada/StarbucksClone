@@ -1,0 +1,17 @@
+.images{
+    width: 72px !important;
+}
+.products{
+    width: 300px !important;
+}
+
+@media only screen and (min-width: 768px) {
+    
+    .images{
+        width: 112px !important;
+    }
+    .products{
+        width: 350px !important;
+    }
+
+}
